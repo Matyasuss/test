@@ -3,6 +3,8 @@
       {
         "id": 1,
         "title": "Honzovo tajemstvi",
+        "about": "Hra se smyšleným příběhem, který vás provede okolím Žďárského zámku a naučí vás zajímavosti o kostelu Svatého Jana Nemopuckého na Zelené hoře."
+        "atributes": "Informace o hře: - Venkovní - cca 1 hodina - doporučený věk 7-13 let - potřebné vybavení: Telefon, papír, tužka"
         "status": "open",
         "status_print": null,
         "aditional_info": true,
@@ -41,6 +43,8 @@
       {
         "id": 2,
         "title": "Ve Žďáře straší?",
+        "about": " "
+        "atributes": " "
         "status": "closed",
         "status_print": "Již brzy",
         "aditional_info": false,
@@ -79,6 +83,8 @@
       {
         "id": 3,
         "title": "Doba ledová",
+        "about": " "
+        "atributes": " "
         "status": "closed",
         "status_print": "Již brzy",
         "aditional_info": false,
